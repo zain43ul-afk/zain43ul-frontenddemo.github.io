@@ -1,0 +1,12 @@
+{
+  "name": "Hafidz Frontend Portfolio",
+  "short_name": "HZ Portfolio",
+  "description": "Twelve interactive frontend experiences by Hafidz Zainul Mustofa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1eee5",
+  "theme_color": "#dfff00",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
