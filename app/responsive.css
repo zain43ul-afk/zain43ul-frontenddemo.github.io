@@ -1,3 +1,0 @@
-@media(max-width:760px){
-  .nova-app{display:block;min-height:0}.nova-app>aside{height:60px;padding:0 12px;flex-direction:row;align-items:center}.nova-app>aside>b span{display:inline}.nova-app>aside nav{margin:0 0 0 auto;flex-direction:row}.nova-app>aside nav button span,.nova-app>aside>div{display:none}.nova-app>main{padding:22px 12px}.nova-app main>header h2{font-size:1.15rem}.nova-app main>header>div:last-child{display:none}.nova-toolbar{margin-top:25px}.nova-toolbar>div:first-child{display:none}.nova-toolbar>div:last-child{margin-left:auto}.nova-kpis{grid-template-columns:1fr 1fr}.nova-kpis b{font-size:1.15rem}.nova-panels{grid-template-columns:1fr}.revenue-chart svg{height:190px}
-}
