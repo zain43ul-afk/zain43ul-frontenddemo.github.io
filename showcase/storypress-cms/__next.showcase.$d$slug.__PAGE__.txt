@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[68945,["/zain43ul-frontenddemo.github.io/_next/static/chunks/01xlw8hd842-c.js","/zain43ul-frontenddemo.github.io/_next/static/chunks/0d3shmwh5_nmn.js","/zain43ul-frontenddemo.github.io/_next/static/chunks/0f4a8v07e8-of.js","/zain43ul-frontenddemo.github.io/_next/static/chunks/17ygp-~~2jhww.js"],"default"]
+3:I[97367,["/zain43ul-frontenddemo.github.io/_next/static/chunks/01xlw8hd842-c.js","/zain43ul-frontenddemo.github.io/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"storypress-cms"}],[["$","script","script-0",{"src":"/zain43ul-frontenddemo.github.io/_next/static/chunks/0f4a8v07e8-of.js","async":true}],["$","script","script-1",{"src":"/zain43ul-frontenddemo.github.io/_next/static/chunks/17ygp-~~2jhww.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VtV7Ies3XZKwcKf9HrVwV"}
+5:null
